@@ -75,6 +75,7 @@
 #import "GPUImageBulgeDistortionFilter.h"
 #import "GPUImagePinchDistortionFilter.h"
 #import "GPUImageCrosshatchFilter.h"
+#import "GPUImageDotGenerator.h"
 #import "GPUImageCGAColorspaceFilter.h"
 #import "GPUImagePolarPixellateFilter.h"
 #import "GPUImageStretchDistortionFilter.h"
